@@ -155,7 +155,7 @@ PayReb ليست مجرد بوابة دفع بل هي منصة متكاملة ت�
 - الموقع الرسمي: [www.payreb.com](https://www.payreb.com)
 - البريد الإلكتروني: info@payreb.com
 - واتساب: +90 850 840 09 10
-- تويتر: [@payreb](https://twitter.com/payreb)
+- تويتر: [@payreb](sy_https://twitter.com/payreb)
 - لينكدإن: [PayReb](https://www.linkedin.com/company/payreb)
 
 ---
