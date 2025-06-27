@@ -52,7 +52,7 @@
 ## 🖼️ صور توضيحية
 
 <p align="center">
-  <img src="https://payreb.com/assets/screenshots/dashboard-light.png](https://www.payreb.com/_next/static/media/headAr.1d41fdab.png" width="600" />
+  <img src="https://www.payreb.com/_next/static/media/headAr.1d41fdab.png" width="600" />
   <br />
  <img src="https://payreb.com/assets/screenshots/mobile-app.png" width="300" />
 </p>
