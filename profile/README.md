@@ -45,7 +45,7 @@
 - Mobile: **Flutter**
 - Database: **PostgreSQL / Redis**
 - Hosting: **Vercel / Azure / Docker**
-- APIs: **Stripe / Iyzico / Blockchain / Twilio**
+- APIs: **Stripe / Blockchain / PayPal**
 
 ---
 
