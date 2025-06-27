@@ -1,87 +1,164 @@
 <p align="center">
-  <img src="https://www.payreb.com/_next/static/media/logo2.4731025a.svg" width="700" alt="PayReb Logo" />
+  <img src="https://payreb.com/logo.png" width="120" alt="PayReb Logo" />
 </p>
 
-<h1 align="center">PayReb</h1>
+# PayReb – البوابة الذكية للدفع الإلكتروني والتحول المالي
+
+**PayReb** هي منصة دفع إلكتروني متكاملة صُممت لتقديم تجربة مالية رقمية عصرية تلبي احتياجات الأفراد والشركات، وتواكب المتطلبات المتسارعة لعالم التجارة الحديثة. تجمع PayReb بين الأمان، المرونة، السرعة، والتقنيات المصرفية العالمية في نظام ذكي واحد، يتيح للمستخدمين والتجار تنفيذ عمليات مالية بسلاسة تامة وبثقة مطلقة.
+
+---
+
+## 🚀 لماذا PayReb؟
+
+في عالم تزداد فيه الحاجة إلى حلول دفع آمنة وفعّالة، تقدّم PayReb كل ما يحتاجه المستخدم العصري أو التاجر الطموح:
+
+- **واجهة سهلة الاستخدام** لكل من العميل، التاجر، والمدير.
+- **تكامل سلس** مع الأنظمة البنكية والمحافظ الرقمية والعملات المشفّرة.
+- **تحويلات فورية**، وفواتير إلكترونية، وروابط دفع ذكية.
+- **مرونة تامة في إدارة الحسابات**، الوكلاء، ونقاط البيع.
+- **أمان متقدم** مبني وفق أعلى معايير الصناعة (PCI DSS, GDPR).
+
+---
+
+## 💡 مميزات المنصة
+
+### الشمول المالي والتحول الرقمي
+
+PayReb ليست مجرد بوابة دفع بل هي منصة متكاملة تدعم الشمول المالي وتمكّن الأفراد والشركات من:
+
+- إدارة الأموال الرقمية بذكاء وسهولة.
+- شحن وسحب الأرصدة فوريًا من/إلى البنوك أو المحافظ الرقمية أو العملات المشفّرة.
+- إجراء تحويلات فورية بين المستخدمين داخل النظام.
+- الدفع واستلام الأموال من خلال روابط دفع قابلة للمشاركة، ورموز QR، وفواتير إلكترونية.
+
+### أمان مصرفي عالمي
+
+- تشفير بيانات المستخدمين والمعاملات عبر بروتوكولات متقدمة.
+- امتثال كامل لمعايير **PCI DSS** لحماية بيانات بطاقات الدفع.
+- تحقق ثنائي (2FA) عند تسجيل الدخول أو تنفيذ العمليات الحساسة.
+- مراقبة فورية لكشف ومنع عمليات الاحتيال.
+
+### تجربة مستخدم استثنائية
+
+- تطبيقات متجاوبة للويب، أندرويد، وiOS.
+- واجهات استخدام عصرية وسهلة لكل فئة (مستخدم/تاجر/وكيل/مدير).
+- إشعارات فورية وتنبيهات للعمليات والتحويلات.
+
+---
+
+## 🔧 التقنيات والبنية التحتية
+
+### لغات البرمجة
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+</p>
+
+### أطر العمل
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" />
+</p>
+
+### قواعد البيانات
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+### الخوادم والبنية السحابية
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white" />
+</p>
+
+### بوابات الدفع ومزودو الخدمات
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Iyzico-0B5FFF?style=flat&logo=iyzico&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayTR-000?logo=paytr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gupshup-FFBD39?style=flat&logo=gupshup&logoColor=black" />
+  <img src="https://img.shields.io/badge/360Dialog-40A9FF?style=flat&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain.com-121D33?style=flat&logo=bitcoin&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/SendGrid-0085C3?logo=sendgrid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chatwoot-0056FF?logo=chatwoot&logoColor=white" />
+</p>
+
+---
+
+## 🗺️ خارطة الطريق التقنية
+
+- دعم المزيد من العملات المشفّرة والتحويلات الدولية.
+- تكامل أوسع مع منصات التجارة الإلكترونية.
+- ذكاء صناعي لتحليل سلوك المدفوعات والكشف الاستباقي عن الاحتيال.
+- تحسين تجربة المستخدم في تطبيقات الموبايل.
+- أدوات متقدمة للتقارير والتحليل المالي الفوري.
+
+---
+
+## 🌐 اللغات المدعومة
+
+- العربية
+- الإنجليزية
+- التركية
+
+---
+
+## 🖼️ معرض PayReb
 
 <p align="center">
-  💳 منصة دفع إلكتروني آمنة وسريعة للتجار والمستخدمين  
-</p>
-
-<p align="center">
-  <a href="https://payreb.com">🌐 الموقع الرسمي</a> •
-  <a href="mailto:info@payreb.com">📧 تواصل معنا</a> •
-  <a href="https://www.linkedin.com/company/payreb">💼 لينكدإن</a>
+  <img src="https://payreb.com/assets/screenshots/dashboard-light.png" width="600" alt="PayReb Dashboard" />
+  <br>
+  <img src="https://payreb.com/assets/screenshots/mobile-app.png" width="300" alt="PayReb Mobile" />
 </p>
 
 ---
 
-## ✨ ما هي PayReb؟
+## 🛡️ الأمان والاعتمادية
 
-**PayReb** هي بوابة دفع إلكتروني متقدمة، تتيح للمستخدمين إجراء المعاملات المالية بشكل فوري وآمن، مع دعم متكامل للتجار وخدمات API للشركات.
-
----
-
-## 🚀 المزايا
-
-- 💰 دعم العملات البنكية، المحافظ الرقمية، والعملات المشفرة (USDT, TRC20, Polygon)
-- 📲 تطبيقات موبايل متقدمة (iOS/Android)
-- 🔐 تشفير وامتثال لمعايير الأمان (PCI DSS)
-- 💼 لوحة تحكم مخصصة للمستخدم، التاجر، والإدارة
-- 🌐 واجهات برمجية API متقدمة
+تم بناء جميع أنظمة PayReb وفق أفضل الممارسات العالمية للأمان، مع طبقات متعددة من الحماية، وتدقيق دوري للبرمجيات وقواعد البيانات.  
+كل البيانات والمعاملات مشفرة وتخضع للمراجعة المستمرة من قبل خبراء أمن المعلومات.
 
 ---
 
-## 🛠️ لغات البرمجة والتقنيات
+## 💬 تواصل معنا
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,dotnet,typescript,javascript,html,css,tailwind,java,swift,kotlin" />
-</p>
-
----
-
-## 🗄️ قواعد البيانات
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase" />
-</p>
+- الموقع الرسمي: [www.payreb.com](https://www.payreb.com)
+- البريد الإلكتروني: info@payreb.com
+- واتساب: +90 850 840 09 10
+- تويتر: [@payreb](https://twitter.com/payreb)
+- لينكدإن: [PayReb](https://www.linkedin.com/company/payreb)
 
 ---
 
-## ☁️ الخوادم والاستضافة
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,azure,docker,aws,linux,nginx" />
-</p>
-
----
-
-## 🔌 مزودو الخدمات
-
-| الخدمة        | المزوّد                        |
-|---------------|--------------------------------|
-| الدفع البنكي   | Stripe, Iyzico, PayTR         |
-| المحافظ الرقمية | Google Pay, Apple Pay         |
-| التحقق والOTP | Twilio, Gupshup, 360Dialog     |
-| البلوك تشين    | Tron (TRC20), Polygon POS      |
-| البريد والدعم | SendGrid, Chatwoot, Telegram API |
-
----
-
-## 📱 صور المشروع
-
-<p align="center">
-  <img src="https://payreb.com/assets/screenshots/dashboard-light.png" width="600" />
-  <br /><br />
-  <img src="https://payreb.com/assets/screenshots/mobile-app.png" width="300" />
-</p>
-
----
-
-## 🧑‍💻 تعليمات المطورين
-
-```bash
-git clone https://github.com/payreb/payreb.git
-cd payreb
-npm install
-npm run dev
+> **PayReb**: مستقبل المدفوعات الرقمية  
+> جميع الحقوق محفوظة © 2025 PayReb Teknoloji LTD.
