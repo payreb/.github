@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://www.payreb.com/images/logo.svg" width="120" alt="PayReb Logo" />
+  <img src="https://payreb.com/logo.png" alt="PayReb Logo" width="140" />
 </p>
 
 <h1 align="center">PayReb</h1>
 
 <p align="center">
-  💳 بوابة دفع رقمية متطورة للأفراد والشركات<br />
-  🔐 آمنة، سريعة، مرنة – تدعم الدفع بالبطاقات، المحافظ، والعملات الرقمية
+  💳 منصة تكنولوجيا مالية (Fintech) متقدمة لعمليات الدفع والتحصيل<br />
+  🔐 آمنة، مرنة، وسريعة | متعددة القنوات | تدعم العملات الرقمية والمصرفية
 </p>
 
 <p align="center">
-  <a href="https://www.payreb.com/ar">🌐 الموقع الرسمي</a> •
+  <a href="https://payreb.com">🌐 الموقع الرسمي</a> •
   <a href="mailto:info@payreb.com">📧 تواصل معنا</a> •
   <a href="https://twitter.com/payreb">🐦 تويتر</a> •
   <a href="https://www.linkedin.com/company/payreb">💼 لينكدإن</a>
@@ -18,64 +18,67 @@
 
 ---
 
-## 🧾 لمحة عن PayReb
+## 🧠 نظرة عامة
 
-**PayReb** هي منصة دفع إلكتروني مبتكرة، تمكّن الأفراد والتجار من إرسال واستلام الأموال، دفع الفواتير، شحن المحافظ، وإنشاء روابط دفع مباشرة بدون الحاجة لحساب.
-
-تم تطوير المنصة لتكون متعددة القنوات، سريعة، وآمنة، مع واجهات استخدام احترافية وتجربة سلسة.
+**PayReb** هو نظام متكامل لخدمات الدفع الإلكتروني والمحافظ الرقمية، يوفر تجربة دفع آمنة وسلسة للتجار والمستخدمين عبر واجهات سهلة الاستخدام وتكاملات متعددة.
 
 ---
 
-## 🚀 الميزات الرئيسية
+## 🔧 التقنيات المستخدمة
 
-- ⚡ **شحن فوري** عبر التحويلات البنكية والمحلية
-- 🔁 **تحويل داخلي** آمن بين المستخدمين
-- 🧾 **فواتير إلكترونية، رموز QR، وروابط دفع مباشرة**
-- 🏬 **لوحة تحكم تجار ووكلاء متعددة المستويات**
-- 📱 **تطبيقات Android و iOS**
-- 🔐 **نظام تحقق ثنائي وتشفير متقدم وفق PCI DSS**
-
----
-
-## 🧰 التقنيات واللغات المستخدمة
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+### لغات البرمجة
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> TypeScript &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30"/> .NET Core &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30"/> Dart (Flutter)
 </p>
 
----
+### واجهات المستخدم
+- **Next.js** (للويب)
+- **Flutter** (للموبايل iOS/Android)
+- **TailwindCSS** و **Framer Motion**
 
-## 📲 الأنظمة المدعومة
+### قواعد البيانات
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30"/> Redis &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB
+</p>
 
-- ✅ Android
-- ✅ iOS (Flutter & Swift)
-- ✅ Web (Next.js)
-- ✅ RESTful APIs للتكامل الخارجي
+### خدمات وتكاملات مالية
+- Stripe API / Iyzico / Mastercard / Visa
+- Twilio WhatsApp API
+- TRC20 / Polygon USDT integrations
+- QR & NFC Payments
+- PCI DSS / 3D Secure
+
+### استضافة وبنية تحتية
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30"/> Vercel &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> Docker &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> Azure &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub Actions
+</p>
 
 ---
 
 ## 🖼️ صور من النظام
 
 <p align="center">
-  <img src="https://www.payreb.com/images/screenshots/dashboard-light.png" width="600" alt="PayReb Dashboard"/>
+  <img src="https://payreb.com/assets/screenshots/dashboard-light.png" width="600" />
+  <br />
+  <img src="https://payreb.com/assets/screenshots/mobile-app.png" width="300" />
 </p>
 
 ---
 
-## ⚙️ بدء الاستخدام (للمطورين)
+## 📦 البدء (للمطورين)
 
 ```bash
-git clone https://github.com/ganibarho/PayReb.git
-cd PayReb
+git clone https://github.com/payreb/payreb.git
+cd payreb
 npm install
 npm run dev
