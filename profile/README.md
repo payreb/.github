@@ -111,6 +111,7 @@ PayReb ليست مجرد بوابة دفع بل هي منصة متكاملة ت�
   <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/SendGrid-0085C3?logo=sendgrid&logoColor=white" />
   <img src="https://img.shields.io/badge/Chatwoot-0056FF?logo=chatwoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayReb-3D4EFF?style=flat&logo=&logoColor=white" />
 </p>
 
 ---
