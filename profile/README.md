@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://payreb.com/logo.png" width="120" alt="PayReb Logo" />
+  <img src="https://www.payreb.com/_next/static/media/logo2.4731025a.svg" width="400" alt="PayReb Logo" />
 </p>
 
 # PayReb – البوابة الذكية للدفع الإلكتروني والتحول المالي
