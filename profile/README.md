@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.payreb.com/_next/static/media/logo2.4731025a.svg" width="140" alt="PayReb Logo" />
+  <img src="https://www.payreb.com/_next/static/media/logo2.4731025a.svg" width="190" alt="PayReb Logo" />
 </p>
 
 <h1 align="center">PayReb</h1>
