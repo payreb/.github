@@ -42,7 +42,7 @@
 
 - Frontend: **Next.js / React**
 - Backend: **.NET Core / Node.js**
-- Mobile: **Flutter**
+- Mobile: **JAVA**
 - Database: **PostgreSQL / Redis**
 - Hosting: **Vercel / Azure / Docker**
 - APIs: **Stripe / Blockchain / PayPal**
