@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://www.payreb.com/_next/static/media/logo2.4731025a.svg" width="400" alt="PayReb Logo" />
 </p>
-
+<p align="center">
 # <img src="https://www.payreb.com/_next/static/media/logo2.4731025a.svg" width="200" align="absmiddle" /> <img src="https://img.shields.io/badge/PayReb-3D4EFF?style=flat&logoColor=white" />  – البوابة الذكية للدفع الإلكتروني والتحول المالي
+</p>
 
 **PayReb** هي منصة دفع إلكتروني متكاملة صُممت لتقديم تجربة مالية رقمية عصرية تلبي احتياجات الأفراد والشركات، وتواكب المتطلبات المتسارعة لعالم التجارة الحديثة. تجمع PayReb بين الأمان، المرونة، السرعة، والتقنيات المصرفية العالمية في نظام ذكي واحد، يتيح للمستخدمين والتجار تنفيذ عمليات مالية بسلاسة تامة وبثقة مطلقة.
 
